@@ -1,3 +1,8 @@
+
+Student ID: U1910137
+Student Name: Naima Khodjaeva
+Section Number: 003
+
 # Laravel - Getting Started
 This repository holds the starting source code of the "PHP Development with Laravel - Working with Models & Data" course.
 
